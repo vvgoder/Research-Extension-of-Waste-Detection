@@ -1,6 +1,6 @@
 # Research Extension of Waste Detection
 
-#### Overview
+### Overview
 
 This repositorty is built to demonstrate the extended work for waste detection with few data, whose original paper is submitted to the journal named "**Engineering Applications of Aritifical Intelligence**", with the abstract as follows:
 
@@ -8,7 +8,7 @@ This repositorty is built to demonstrate the extended work for waste detection w
 
 ![](9.png)
 
-#### What we extended?
+### What we extended?
 
 The increasing human resource consumption could bring about some new waste categories with scarce samples, such as **medical waste** (e.g., antigen detection kits) and **chemical waste**(e.g., containers of leachate toxic materials), and detecting them is of great significance for virus spread suppression and hazardous waste disposal.
 
@@ -16,7 +16,7 @@ The increasing human resource consumption could bring about some new waste categ
 
 Due to the rarity of those categories, it is difficult for us to develop a convincing data size to expand the experiments in this paper in a relatively short period of time. As such, we would continuously **collect the samples including those new waste categories** and **update the detection performance of the proposed framework** on them here. Also, we attempt to make the collected images of the new categories publicly available.
 
-#### How to get the dataset?
+### How to get the dataset?
 
 To encourage related research, we will provide the dataset according to your request. Please email your full name and affiliation to the contact person (**vvgod at seu dot edu dot cn**). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere.
 
