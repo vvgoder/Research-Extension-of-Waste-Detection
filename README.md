@@ -20,4 +20,3 @@ Due to the rarity of those categories, it is difficult for us to develop a convi
 
 To encourage related research, we will provide the dataset according to your request. Please email your full name and affiliation to the contact person (**vvgod at seu dot edu dot cn**). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere.
 
-Different from other datasets, this dataset involves a lot of privacy such as license plate, human face, location information, etc. Therefore, before open source, we have to laboriously erase these private information. Thank you for your kind understanding!
