@@ -20,8 +20,8 @@ Due to the rarity of those categories, it is difficult for us to develop a convi
 | -------------------------------------- | --- | --- | ---- | ---- |
 | Antigen detection kits                 | —   | —   | —    | —    |
 | Disposable face mask                   | —   | —   | —    | —    |
-| containers of leachate toxic materials | —   | —   | —    | —    |
-| radioactive materials packaging        | —   | —   | —    | —    |
+| Containers of leachate toxic materials | —   | —   | —    | —    |
+| Radioactive materials packaging        | —   | —   | —    | —    |
 
 
 ### How to get the dataset?
