@@ -16,6 +16,14 @@ The increasing human resource consumption could bring about some new waste categ
 
 Due to the rarity of those categories, it is difficult for us to develop a convincing data size to expand the experiments in this paper in a relatively short period of time. As such, we would continuously **collect the samples including those new waste categories** and **update the detection performance of the proposed framework** on them here. Also, we attempt to make the collected images of the new categories publicly available.
 
+| Category                               | K=1 | K=5 | K=10 | K=30 |
+| -------------------------------------- | --- | --- | ---- | ---- |
+| Antigen detection kits                 | —   | —   | —    | —    |
+| Disposable face mask                   | —   | —   | —    | —    |
+| containers of leachate toxic materials | —   | —   | —    | —    |
+| radioactive materials packaging        | —   | —   | —    | —    |
+
+
 ### How to get the dataset?
 
 To encourage related research, we will provide the dataset according to your request. Please email your full name and affiliation to the contact person (**vvgod at seu dot edu dot cn**). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere.
