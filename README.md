@@ -18,8 +18,8 @@ Due to the rarity of those categories, it is difficult for us to develop a convi
 
 | Category                               | Sample number | K=1 | K=5 | K=10 | K=30 |
 | -------------------------------------- | --- | --- | --- | ---- | ---- |
-| Antigen detection kits                 | 230 images/ 364 instances   | —   | —  | —    | —    |
-| Disposable face mask                   | —   | —   |—   | —    | —    |
+| Antigen detection kits                 | 230 images/ 364 instances (ongoing collecting)  | —   | —  | —    | —    |
+| Disposable face mask                   | 340 images/ 522 instances (ongoing collecting)    | —   |—   | —    | —    |
 | Containers of leachate toxic materials | —   | —   |—   | —    | —    |
 | Radioactive materials packaging        | —   | —   |—   | —    | —    |
 
